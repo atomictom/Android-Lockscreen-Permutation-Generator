@@ -6,7 +6,7 @@ A simple project born to generate and show all possible Android lockscreen permu
 How it works
 ------------
 
-It iteratively deepens, meaning it will show all passwords of length 4, then of length 5, etc. The allowable connections between nodes are encoded as an adjacency list. The drawing is all done with <canvas>.
+It iteratively deepens, meaning it will show all passwords of length 4, then of length 5, etc. The allowable connections between nodes are encoded as an adjacency list. The drawing is all done with canvas.
 
 Screenshots
 -----------
