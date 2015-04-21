@@ -7,3 +7,10 @@ How it works
 ------------
 
 It iteratively deepens, meaning it will show all passwords of length 4, then of length 5, etc. The allowable connections between nodes are encoded as an adjacency list. The drawing is all done with <canvas>.
+
+Screenshots
+-----------
+
+![Slow speed permutations](/slow-run.gif)
+![Medium speed permutations](/medium-run.gif)
+![Fast speed permutations](/fast-run.gif)
