@@ -11,6 +11,9 @@ It iteratively deepens, meaning it will show all passwords of length 4, then of 
 Screenshots
 -----------
 
+### Slow
 ![Slow speed permutations](/slow-run.gif)
+### Medium
 ![Medium speed permutations](/medium-run.gif)
+### Fast
 ![Fast speed permutations](/fast-run.gif)
